@@ -1,4 +1,4 @@
-<h1 align="center">NIKHIL CHARY SRIRAMOJU</h1>
+<h1 align="center">Nikhil Chary Sriramoju</h1>
 <p align="center"><b>CSE Final-Year Student | AI/ML &amp; Security Systems Builder | Open to Internships</b></p>
 
 <p align="center">
@@ -62,3 +62,17 @@ B.Tech Computer Science &amp; Engineering, Vaagdevi College of Engineering (2023
 
 ---
 [![Profile views](https://komarev.com/ghpvc/?username=Nikhil-creat&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Nikhil-creat)
+
+---
+
+## Designed and Developed by
+
+# **NIKHIL CHARY SRIRAMOJU**
+
+BTech CSE (Final Year)
+
+- GitHub: [Nikhil-creat](https://github.com/Nikhil-creat)
+- LinkedIn: [nikhil-chary-sriramoju](https://in.linkedin.com/in/nikhil-chary-sriramoju-95041b38a)
+- Email: sriramojunikhil66@gmail.com
+- Instagram: [@nikhil__sriramoju](https://www.instagram.com/nikhil__sriramoju)
+- Facebook: [Profile](https://www.facebook.com/profile.php?id=100079201124141)
