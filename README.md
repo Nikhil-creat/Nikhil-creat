@@ -1,4 +1,4 @@
-<h1 align="center">Nikhil Chary Sriramoju</h1>
+<h1 align="center">NIKHIL CHARY SRIRAMOJU</h1>
 <p align="center"><b>CSE Final-Year Student | AI/ML &amp; Security Systems Builder | Open to Internships</b></p>
 
 <p align="center">
